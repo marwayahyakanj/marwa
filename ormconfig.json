@@ -1,0 +1,11 @@
+{
+    "type": "mysql",
+    "host" : "bvs9ezmpmsoxyiccmjvb-mysql.services.clever-cloud.com",
+    "port":"3306",
+    "username":"urdcngdgjraasix6",
+    "password":"yCFr4rwsalHPYwBxidvI",
+    "database":"bvs9ezmpmsoxyiccmjvb",
+    "entities":["dist/**/entities/**.entity{.ts,.js}"],
+    "synchronize":"true"
+
+}
